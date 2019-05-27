@@ -2,6 +2,10 @@
 
 > 根据cnode社区API实现cnode社区
 
+## 页面展示
+![首页](https://i.loli.net/2019/05/27/5cebe97dc8edd70444.png)
+![详情页](https://i.loli.net/2019/05/27/5cebea0e3f82595139.png)
+![个人信息](https://i.loli.net/2019/05/27/5cebea29e687236338.png)
 
 ## Build Setup
 
